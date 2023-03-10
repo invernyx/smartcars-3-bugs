@@ -4,7 +4,7 @@ This is the official bug report repository for smartCARS 3. You may report bugs 
 **Please do not report bugs relating to smartCARS 2**
 
 ## Reporting Bugs
-Before reporting a bug, it is important that you verify that a plugin does not cause the bug. To do this, please disable all unverified plugins and try to reproduce the bug.
+Before reporting a bug, you must verify that the bug is not caused by a plugin. To do this, please disable all unverified plugins (any plugin in the app that does not have the "Verified" pill), and try to reproduce the bug.
 
 If the bug is not caused by an unverified plugin, you should verify that your issue [has not already been reported](https://github.com/invernyx/smartcars-3-bugs/issues?q=is%3Aissue+label%3Abug). If it has, please add a comment to the existing issue instead of creating a new one with any further information you may be able to present.
 
