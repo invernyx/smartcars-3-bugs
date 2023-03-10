@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Suggest a feature or idea for smartCARS 3
+title: '[FEATURE] - '
+labels: 'suggestion'
 assignees: ''
 
 ---
