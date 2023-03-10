@@ -36,6 +36,6 @@ A valid vulnerability must:
 - Not be a vulnerability in a third-party library - you should report this to the developers of that library.
 - Not be intentional by design.
 
-If your vulnerability does not meet these requirements, you are experiencing a bug, not a vulnerability. You can report your bug [here](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D+-+)).
+If your vulnerability does not meet these requirements, you are experiencing a bug, not a vulnerability. You can report your bug [here](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D+-+).
 
 **We will respond to all security vulnerabilities as soon as possible.** Please do not disclose the vulnerability to the public until we have had a chance to respond.
