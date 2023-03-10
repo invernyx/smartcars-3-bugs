@@ -19,7 +19,7 @@ To suggest a new feature, please create a [new issue](https://github.com/inverny
 If you discover a security vulnerability within smartCARS 3, please create a new [Security Advisory](https://github.com/invernyx/smartcars-3-public-api/security/advisories/new). We require lots of technical information about the vulnerability, so please do not create a public issue.
 
 ### Bug Hunter Rewards Program
-We have a Bug Hunter Rewards Program. If you discover a security vulnerability, you may be eligible for a reward. The table of rewards is as follows:
+We have a Bug Hunter Rewards Program. You may be eligible for a reward if you discover a security vulnerability. The table of rewards is as follows:
 
 | **Vulnerability**                                                                                                                     | **Reward** |
 |---------------------------------------------------------------------------------------------------------------------------------------|------------|
