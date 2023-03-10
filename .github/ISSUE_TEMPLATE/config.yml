@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+    # TODO: Create a security vulnerability reporting process
+  - name: API Bugs
+    url: https://github.com/invernyx/smartcars-3-public-api/issues
+    about: Report bugs with the SmartCARS 3 API
+  - name: TFDi Design Support
+    url: https://support.tfdidesign.com
+    about: Our support portal for general support questions
+  - name: TFDi Design Discord
+    url: https://discord.gg/tfdidesign
+    about: TFDi Design Discord Server
