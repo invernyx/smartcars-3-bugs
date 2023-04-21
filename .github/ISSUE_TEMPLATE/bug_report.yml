@@ -1,0 +1,71 @@
+name: 🐞 Bug
+description: Create a report to help us improve
+title: "[BUG] - "
+labels: "verification required"
+assignees: []
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How do you reproduce this bug?
+      description: Please provide a list of steps to cause this issue
+      placeholder: |
+        1. Navigate to ...
+        2. Click on ...
+        3. See this happen ...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: Please explain what you think should be happening
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Screenshots
+      description: |
+        If applicable, add screenshots to help explain your problem.
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Operating system
+      description: Please list the operating system you are using
+      placeholder: "Windows 11 22H2"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Community airline
+      description: Which airline are you using
+      placeholder: "smartCARS Virtual"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: smartCARS Version
+      description: Enter the version of smartCARS
+      placeholder: "0.8.0.2"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Plugins installed
+      description: Please list all plugins you have installed for smartCARS 3
+      placeholder: "chat, map, flight center, logbook"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Please add any additional information you belive may be helpful in resolving this bug
+    validations:
+      required: false
