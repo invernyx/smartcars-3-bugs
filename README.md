@@ -6,14 +6,14 @@ This is the official bug report repository for smartCARS 3. You may report bugs 
 ## Reporting Bugs
 Before reporting a bug, you must verify that the bug is not caused by a plugin. To do this, please disable all unverified plugins (any plugin in the app that does not have the "Verified" pill), and try to reproduce the bug.
 
-If the bug is not caused by an unverified plugin, you should verify that your issue [has not already been reported](https://github.com/invernyx/smartcars-3-bugs/issues?q=is%3Aissue+label%3Abug). If it has, please add a comment to the existing issue instead of creating a new one with any further information you may be able to present.
+If the bug is not caused by an unverified plugin, you should verify that your issue [has not already been reported](https://github.com/invernyx/smartcars-3-bugs/issues?q=is%3Aissue+is%3Aopen+label%3Abug%2C%22verification+required%22). If it has, please add a comment to the existing issue instead of creating a new one with any further information you may be able to present.
 
-To report a bug, please create a [new issue](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D+-+) using the bug report template.
+To report a bug, please create a [new issue](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=verification+required&projects=&template=bug_report.yml&title=%5BBUG%5D+-+) using the bug report template.
 
 ## Suggesting Features
 Before suggesting a feature, please verify that the feature [has not already been suggested](https://github.com/invernyx/smartcars-3-bugs/issues?q=is%3Aissue+label%3Asuggestion). If it has, please comment to the existing issue instead of creating a new one.
 
-To suggest a new feature, please create a [new issue](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=suggestion&template=feature_request.md&title=%5BFEATURE%5D+-+) using the feature request template.
+To suggest a new feature, please create a [new issue](https://github.com/invernyx/smartcars-3-bugs/issues/new?assignees=&labels=suggestion&projects=&template=feature_request.yml&title=%5BFEATURE%5D+-+) using the feature request template.
 
 # Security Vulnerabilities
 If you discover a security vulnerability within smartCARS 3, please create a new [Security Advisory](https://github.com/invernyx/smartcars-3-public-api/security/advisories/new). We require lots of technical information about the vulnerability, so please do not create a public issue.
